@@ -10,6 +10,7 @@
     "firebase": "^3.5.3",
     "react": "15.3.2",
     "react-native": "0.36.0",
+    "react-native-router-flux": "^3.35.0",
     "react-redux": "latest",
     "redux": "latest",
     "redux-thunk": "^2.1.0"

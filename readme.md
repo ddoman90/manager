@@ -15,3 +15,8 @@
 -- this function will be called with 'dispatch'
 -- we need to wire up an action to use redux-thunk
 ![](./images/redux_thunk.png "Redux Thunk")
+
+# Navigation
+- there is no de-facto solution
+- react-native-router-flux
+- scenes comes to Router.js
